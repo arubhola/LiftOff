@@ -1,7 +1,6 @@
 # LiftOff
 
-a simple 3 input random story generator app that takes 3 inputs:
-genre
+a simple 3 input random story generator app that takes 2 inputs:
 character name
 character pronouns
 
