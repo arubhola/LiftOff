@@ -1,4 +1,4 @@
-# HTN_2021
+# LiftOff
 
 a simple 3 input random story generator app that takes 3 inputs:
 genre
